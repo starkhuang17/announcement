@@ -1,6 +1,6 @@
-isUnderMaintenance: true
-startTime: 1504617660
-endTime: 1504617750
+needMaintenance: true
+startTime: 1504618740
+endTime: 1504618800
 announcements:
     EN:
         title: "System Maintenance Announcement"
