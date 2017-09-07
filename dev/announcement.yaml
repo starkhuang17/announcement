@@ -1,4 +1,4 @@
-needMaintenance true
+needMaintenance: false
 startTime: 1504810080
 endTime: 1504810380
 announcements:
