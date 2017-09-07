@@ -1,9 +1,9 @@
-needMaintenance: false
+needMaintenance: true
 startTime: 1504630460
 endTime: 1504890660
 announcements:
     EN:
-        title: "System Maintenance Announcementasd"
+        title: "System Maintenance Announcement"
         description: "Dear users, we apologize for the downtime between 18:00-00:15 yesterday. Most systems have been recovered; we will resolve remaining issues over the next few days. If you face any problem, please feel free to contact us. Thank you!"
         pic: "17baobao.jpg"
     TW:
