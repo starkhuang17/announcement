@@ -1,6 +1,6 @@
-needMaintenance: false
-startTime: 1504863800
-endTime: 1504866000
+needMaintenance: true
+startTime: 1504865300
+endTime: 1504865800
 announcements:
     EN:
         title: "System Maintenance Announcementasd"
