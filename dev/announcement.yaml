@@ -1,6 +1,6 @@
-needMaintenance: true
-startTime: 2017-09-09 21:15:00 (GMT+0800)
-endTime: 2017-09-09 21:30:00 (GMT+0800)
+needMaintenance: false
+startAt: 2017-09-15 04:03:00 (GMT+0800)
+endAt: 2017-09-15 04:03:30 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcementasd"
