@@ -1,5 +1,5 @@
-needMaintenance: error
-startAt 1234
+needMaintenance: false
+startAt: 2017-09-21 12:23:00 (GMT+0800)
 endAt: 2017-09-21 12:24:00 (GMT+0800)
 announcements:
     EN:
