@@ -1,6 +1,7 @@
 needMaintenance: true
 startAt: 2019-03-14 11:00:00 (GMT+0800)
 endAt: 2019-03-14 11:30:00 (GMT+0800)
+announcements:
     EN:
         title: "Urgent Maintenance"
         description: "To ensure the best stream experience, we are undertaking the maintenance to solve stability issues. We apologize for any inconvenience that this may have caused you. Thanks for your supports."
