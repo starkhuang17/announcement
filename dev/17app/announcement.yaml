@@ -1,4 +1,5 @@
 needMaintenance: false
+sendPubnub: true
 startAt: 2019-05-21 04:03:00 (GMT+0800)
 endAt: 2019-05-25 04:03:30 (GMT+0800)
 announcements:
