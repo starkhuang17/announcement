@@ -1,7 +1,7 @@
 needMaintenance: true
 sendPubnub: false
-startAt: 2020-06-05 12:30:00 (GMT+0800)
-endAt: 2020-06-05 13:00:00 (GMT+0800)
+startAt: 2020-06-05 14:00:00 (GMT+0800)
+endAt: 2020-06-05 18:00:00 (GMT+0800)
 announcements:
     EN:
         title: "Event System Maintenance Announcement"
