@@ -1,4 +1,4 @@
-needMaintenance: false
+needMaintenance: true
 sendPubnub: true
 startAt: 2020-09-03 03:00:00 (GMT+0800)
 endAt: 2020-09-03 04:30:00 (GMT+0800)
