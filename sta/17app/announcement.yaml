@@ -1,5 +1,5 @@
-needMaintenance: false
-sendPubnub: false
+needMaintenance: true
+sendPubnub: true
 startAt: 2020-09-22 10:30:00 (GMT+0800)
 endAt: 2020-09-22 11:00:00 (GMT+0800)
 announcements:
