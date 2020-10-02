@@ -1,16 +1,16 @@
 needMaintenance: false
 sendPubnub: true
-startAt: 2020-08-23 21:45:00 (GMT+0800)
-endAt: 2020-08-23 22:30:00 (GMT+0800)
+startAt: 2020-10-02 21:30:00 (GMT+0800)
+endAt: 2020-10-02 22:00:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
         description: "Dear users,\n
-        To ensure the highest stability and performance levels for our services, we’re applying a system update on servers during 21:45 - 22:30 (GMT+8). We apologize for your inconvenience. Should there be any question, please contact our 24/7 customer service. Thank you."
+        To ensure the highest stability and performance levels for our services, we’re applying a system update on servers during 21:30 - 22:00 (GMT+8). We apologize for your inconvenience. Should there be any question, please contact our 24/7 customer service. Thank you."
         pic: "17baobao.jpg"
     TW:
         title: "系統維修公告"
-        description: "由於用戶反應直播有卡頓、延遲狀況，為提供優良的服務品質，工程團隊正在安排工程師進行緊急維修，預計於 22:30 (GMT+8) 重新開放，造成您的不便還請見諒，感謝您的支持與諒解，謝謝！ 17LIVE營運團隊敬上。"
+        description: "由於用戶反應直播有卡頓、延遲狀況，為提供優良的服務品質，工程團隊正在安排工程師進行緊急維修，預計於 22:00 (GMT+8) 重新開放，造成您的不便還請見諒，感謝您的支持與諒解，謝謝！ 17LIVE營運團隊敬上。"
         pic: "17baobao.jpg"
     JP:
         title: "システムメンテナンス情報"
@@ -21,7 +21,7 @@ announcements:
         pic: "17baobao.jpg"
     CN:
         title: "系统维修公告"
-        description: "由于用户反映直播有卡顿，延迟状况，为了提供优良的服务品质，工程团队正在安排工程师进行紧急维修，预计于 22:30 (GMT+8) 重新开放，造成您的不便还请见谅，谢谢！17LIVE运营团队敬上。"
+        description: "由于用户反映直播有卡顿，延迟状况，为了提供优良的服务品质，工程团队正在安排工程师进行紧急维修，预计于 22:00 (GMT+8) 重新开放，造成您的不便还请见谅，谢谢！17LIVE运营团队敬上。"
         pic: "17baobao.jpg"
     ID:
         title: "Pemeliharaan Penting"
