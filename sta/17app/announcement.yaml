@@ -1,7 +1,7 @@
 needMaintenance: true
 sendPubnub: true
 startAt: 2020-10-22 11:30:00 (GMT+0800)
-endAt: 2020-10-22 12:00:00 (GMT+0800)
+endAt: 2020-10-22 12:30:00 (GMT+0800)
 announcements:
     EN:
         title: "Scheduled Maintenance"
