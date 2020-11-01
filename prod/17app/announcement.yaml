@@ -1,7 +1,7 @@
 needMaintenance: true
 sendPubnub: true
 startAt: 2020-11-02 04:00:00 (GMT+0800)
-endAt: 2020-11-03 04:30:00 (GMT+0800)
+endAt: 2020-11-02 04:30:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
