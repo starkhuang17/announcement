@@ -1,6 +1,6 @@
 needMaintenance: true
 sendPubnub: true
-startAt: 2021-12-01 17:0:00 (GMT+0800)
+startAt: 2021-12-01 17:00:00 (GMT+0800)
 endAt: 2021-12-01 17:15:00 (GMT+0800)
 announcements:
     EN:
