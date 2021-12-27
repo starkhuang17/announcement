@@ -3,7 +3,7 @@
 - Directory structure
 ```
   .
-  └── ${envs}                     <-- dev/sta/prod
+  └── ${envs}                     <-- dev/uat/sta/prod
       └── ${servers}              <-- 17app/event-server
           └── announcement.yaml   <-- conifguration
 ```
