@@ -1,28 +1,32 @@
-needMaintenance: false
+needMaintenance: true
 sendPubnub: true
-startAt: 2021-09-14 04:00:00 (GMT+0800)
-endAt: 2021-09-14 05:00:00 (GMT+0800)
+startAt: 2022-01-19 04:10:00 (GMT+0800)
+endAt: 2022-01-19 04:25:00 (GMT+0800)
 announcements:
     EN:
-        title: "System Maintenance Announcement"
+        title: "System Maintenance"
         description: "Dear users,\n
-        To ensure the highest stability and performance levels for our services, we’re going to shutdown servers during 04:00 - 05:00 (GMT+8). We apologize for your inconvenience. Should there be any question, please contact our 24/7 customer service. Thank you."
+          Our servers will be down for routine maintenance from 2022/01/18 20:00 UTC to 2022/01/18 21:00. We apologize for the inconvenience!"
         pic: "17baobao.jpg"
     TW:
         title: "系統維修公告"
-        description: "為了維護系統穩定性並持續提供優質的直播服務，我們將於2021/09/14 04:00 - 5:00 am，進行系統優化。維護期間將無法使用17LIVE，感謝您的支持與諒解，謝謝！17LIVE營運團隊敬上。"
+        description: "親愛的17用戶\n
+          17ALIVE APP 預計於 2022/01/19 04:00 (GMT+8) 進行系統維修，並於 2022/01/19 05:00 (GMT+8) 重新開放，期間無法登入與使用，造成您的不便還請見諒，感謝您的支持與諒解，謝謝！ 17LIVE營運團隊敬上。"
         pic: "17baobao.jpg"
     JP:
-        title: "システムメンテナンス情報"
-        description: "メンテナンス開始時に全ての配信は終了され、期間中はサービスをご利用頂けなくなります。\n
-        ご利用の皆様にはご不便をおかけいたしますが、ご理解のほどよろしくお願いいたします。\n
-        引き続き17LIVEをよろしくお願い致します。"
+        title: "サーバーメンテナンスについて"
+        description: "いつも17LIVEをご利用いただき、誠にありがとうございます。\n
+          この度、下記の時間帯にてサーバーメンテナンスを実施させていただきます\n\n
+          ■ メンテナンス日時\n
+          2022年1月19日(水) AM5:00 ～ AM6:00\n
+          ※メンテナンス時間は前後する場合がございます。\n\n
+          ■ メンテナンスに伴う影響\n
+          メンテナンス開始時に全ての配信は終了され、上記時間帯は全てのサービスをご利用いただくことができなくなります。\n\n
+          ご利用のお客様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。\n
+          今後とも17LIVEをよろしくお願いいたします。"
         pic: "17baobao.jpg"
     CN:
-        title: "系统維修公告"
-        description: "为了维护系统稳定性并持续提供优质的直播服务，我们将于2021/09/14 04:00 - 5:00 am，进行系统优化。维护期间将无法使用17LIVE，感谢您的支持与谅解，谢谢！17LIVE营运团队敬上。"
-        pic: "17baobao.jpg"
-    ID:
-        title: "Pemeliharaan Penting"
-        description: "Demi meningkatkan stabilitas dan kenyamanan para pengguna, kami sedang melakukan permeliharaan. Mohon maaf atas ketidaknyamanannya. Terima kasih! 17Media"
+        title: "系统维修公告"
+        description: "亲爱的17用户\n
+          17LIVE APP 预计于 2022/01/19 04:00 (GMT+8) 进行系统维修，并于 2022/01/19 05:00 (GMT+8) 重新开放，期间无法登入与使用，造成您的不便还请见谅，感谢您的支持与谅解，谢谢！ 17LIVE营运团队敬上。"
         pic: "17baobao.jpg"
