@@ -2,6 +2,7 @@ needMaintenance: true
 sendPubnub: true
 startAt: 2022-01-19 04:10:00 (GMT+0800)
 endAt: 2022-01-19 04:20:00 (GMT+0800)
+image: 0f98f7d8-e753-4e4e-b222-1db9a1a1b3cd.png
 announcements:
     EN:
         title: "System Maintenance"
