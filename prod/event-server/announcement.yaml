@@ -1,7 +1,7 @@
 needMaintenance: true
 sendPubnub: true
 startAt: 2022-04-19 01:00:00 (GMT+0800)
-endAt: 2022-04-19 02:00:00 (GMT+0800)
+endAt: 2022-04-19 02:30:00 (GMT+0800)
 announcements:
     EN:
         title: "Event System Maintenance Announcement"
