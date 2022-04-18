@@ -1,32 +1,83 @@
 needMaintenance: true
 sendPubnub: true
-startAt: 2022-01-18 18:00:00 (GMT+0800)
-endAt: 2022-01-18 18:05:00 (GMT+0800)
+startAt: 2022-04-18 14:30:00 (GMT+0800)
+endAt: 2022-04-18 15:00:00 (GMT+0800)
 announcements:
     EN:
-        title: "Event System Maintenance Announcement"
-        description: "Dear users,\n
-          Our servers will be down for routine maintenance from 2022/01/18 20:00 UTC to 2022/01/18 21:00. We apologize for the inconvenience!"
+        Title: "System Maintenance Announcement"
+
+        Description:
+        "Dear users,\n
+        \n
+        Please note that a planned system update is scheduled for Monday, April 18, 2022, beginning from 10 am to 11:30 am (GMT-7).\n
+        \n
+        During this time, the following services will be affected \n
+        -certain event pages\n
+        -leaderboards/loyalty points\n
+        -event stickers on the top right in livestreams\n
+        \n
+        Rest assured, live-streaming and gifting services will remain available; babycoins and royalty points earned during this maintenance window will be correctly reflected after the downtime.\n
+        \n
+        We apologize for any inconvenience this might cause and thank you for your support."
         pic: "17baobao.jpg"
     TW:
-        title: "活動系統維修公告"
-        description: "親愛的17用戶\n
-          17LIVE APP 預計於 2022/01/19 04:00 (GMT+8) 進行系統維修，並於 2022/01/19 05:00 (GMT+8) 重新開放，期間無法登入與使用，造成您的不便還請見諒，感謝您的支持與諒解，謝謝！ 17LIVE營運團隊敬上。"
+        title: "系統維護公告"
+        description:
+        "親愛的用戶您好，感謝您對17Live的支持及愛戴。\n
+        \n
+        為了維護系統穩定性並持續提供優質的直播服務，\n
+        我們將會在 2022年4月19日 01:00 - 02:30 進行更新。\n
+        維護期間，您可能無法查看以下頁面或頁面會延遲更新，當中包括：\n
+        - 部分活動頁面\n
+        - 活動排名及積分\n
+        - 直播間內右上方顯示的活動貼紙\n
+        \n
+        請放心，您仍可在維護期間內繼續進行直播及送禮。\n
+        維護期間內所獲得的寶寶幣及積分，將會在維護完成後正常反映。\n
+        同時，您可在維護期間內如常訪問不受系統維護影響的頁面。\n
+        \n
+        非常抱歉造成您的不便，請繼續支持17LIVE！"
         pic: "17baobao.jpg"
     JP:
-        title: "サーバーメンテナンスについて"
-        description: "いつも17LIVEをご利用いただき、誠にありがとうございます。\n
-          この度、下記の時間帯にてサーバーメンテナンスを実施させていただきます\n\n
-          ■ メンテナンス日時\n
-          2022年1月19日(水) AM5:00 ～ AM6:00\n
-          ※メンテナンス時間は前後する場合がございます。\n\n
-          ■ メンテナンスに伴う影響\n
-          メンテナンス開始時に全ての配信は終了され、上記時間帯は全てのサービスをご利用いただくことができなくなります。\n\n
-          ご利用のお客様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。\n
-          今後とも17LIVEをよろしくお願いいたします。"
+        title: "一部システムメンテナンスのお知らせ"
+        description:
+        "日頃から17LIVEをご利用いただきありがとうございます。\n
+        \n
+        現在このページはメンテナンス中のため、ご利用いただけません。\n
+        \n
+        メンテナンス終了は「4月19日 AM3:30」を予定しておりますので、しばらく経ってから再度アクセスしてください。\n
+        \n
+        メンテナンスの対象範囲は下記となります。\n
+        なお、システムメンテナンス中もライブ配信やギフティングは通常どおり行うことができます。\n
+        \n
+        ■ 対象\n
+        ・一部ページの表示\n
+        ・イベントランキング\n
+        ・配信画面の右上に表示されるイベントスティッカー\n
+        \n
+        ※ 上記時間帯に獲得したBCやポイントは、システムメンテナンス終了後にイベント詳細ページへ正常に反映されますのでご安心ください。\n
+        \n
+        ※ システムメンテナンスの対象ではないページについては、通常どおりアクセスできます。\n
+        \n
+        ご迷惑をおかけしますが、よろしくお願い致します。\n
+        \n
+        今後とも、17LIVEをよろしくお願いいたします。"
         pic: "17baobao.jpg"
     CN:
-        title: "活動系统维修公告"
-        description: "亲爱的17用户\n
-          17LIVE APP 预计于 2022/01/19 04:00 (GMT+8) 进行系统维修，并于 2022/01/19 05:00 (GMT+8) 重新开放，期间无法登入与使用，造成您的不便还请见谅，感谢您的支持与谅解，谢谢！ 17LIVE营运团队敬上。"
+        title: "系统维护公告"
+        description:
+        "亲爱的用户您好，感谢您对17Live的支持及爱戴。\n
+        \n
+        为了维护系统稳定性并持续提供优质的直播服务，\n
+        我们将会在 2022年4月19日 01:00 - 02:30 进行更新。\n
+        维护期间，您可能无法查看以下页面或页面会延迟更新，当中包括：\n
+        - 部分活动页面\n
+        - 活动排名及积分\n
+        - 直播间內右上方显示的活动贴纸\n
+        \n
+        请放心，您仍可在维护期间内继续进行直播及送礼。\n
+        维护期间内所获得的宝宝币及积分，将会在维护完成后正常反映。\n
+        同时，您可在维护期间内如常访问不受系统维护影响的页面。\n
+        \n
+        非常抱歉造成您的不便，请继续支持17LIVE！"
         pic: "17baobao.jpg"
