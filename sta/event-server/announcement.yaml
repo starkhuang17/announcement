@@ -4,11 +4,9 @@ startAt: 2022-04-18 14:30:00 (GMT+0800)
 endAt: 2022-04-18 15:00:00 (GMT+0800)
 announcements:
     EN:
-        Title: System Maintenance Announcement 
+        Title: "System Maintenance Announcement"
 
-        Description: 
-
-        Dear users,\n
+        Description: "Dear users,\n
         \n
         Please note that a planned system update is scheduled for Monday, April 18, 2022, beginning from 10 am to 11:30 am (GMT-7).\n
         \n
@@ -19,11 +17,11 @@ announcements:
         \n
         Rest assured, live-streaming and gifting services will remain available; babycoins and royalty points earned during this maintenance window will be correctly reflected after the downtime.\n
         \n
-        We apologize for any inconvenience this might cause and thank you for your support.
+        We apologize for any inconvenience this might cause and thank you for your support."
         pic: "17baobao.jpg"
     TW:
-        title: 系統維護公告
-        description: 親愛的用戶您好，感謝您對17Live的支持及愛戴。\n
+        title: "系統維護公告"
+        description: "親愛的用戶您好，感謝您對17Live的支持及愛戴。\n
         \n
         為了維護系統穩定性並持續提供優質的直播服務，\n
         我們將會在 2022年4月19日 01:00 - 02:30 進行更新。\n
@@ -36,11 +34,11 @@ announcements:
         維護期間內所獲得的寶寶幣及積分，將會在維護完成後正常反映。\n
         同時，您可在維護期間內如常訪問不受系統維護影響的頁面。\n
         \n
-        非常抱歉造成您的不便，請繼續支持17LIVE！
+        非常抱歉造成您的不便，請繼續支持17LIVE！"
         pic: "17baobao.jpg"
     JP:
         title: "一部システムメンテナンスのお知らせ"
-        description: 
+        description:
         "日頃から17LIVEをご利用いただきありがとうございます。\n
         \n
         現在このページはメンテナンス中のため、ご利用いただけません。\n
@@ -64,19 +62,19 @@ announcements:
         今後とも、17LIVEをよろしくお願いいたします。"
         pic: "17baobao.jpg"
     CN:
-        title: 系统维护公告
-        description: 亲爱的用户您好，感谢您对17Live的支持及爱戴。\n
+        title: "系统维护公告"
+        description: "亲爱的用户您好，感谢您对17Live的支持及爱戴。\n
         \n
         为了维护系统稳定性并持续提供优质的直播服务，\n
         我们将会在 2022年4月19日 01:00 - 02:30 进行更新。\n
         维护期间，您可能无法查看以下页面或页面会延迟更新，当中包括：\n
         - 部分活动页面\n
-        - 活动排名及积分\n 
+        - 活动排名及积分\n
         - 直播间內右上方显示的活动贴纸\n
         \n
         请放心，您仍可在维护期间内继续进行直播及送礼。\n
         维护期间内所获得的宝宝币及积分，将会在维护完成后正常反映。\n
         同时，您可在维护期间内如常访问不受系统维护影响的页面。\n
         \n
-        非常抱歉造成您的不便，请继续支持17LIVE！
+        非常抱歉造成您的不便，请继续支持17LIVE！"
         pic: "17baobao.jpg"
