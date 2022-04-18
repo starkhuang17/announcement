@@ -4,9 +4,8 @@ startAt: 2022-04-18 14:30:00 (GMT+0800)
 endAt: 2022-04-18 15:00:00 (GMT+0800)
 announcements:
     EN:
-        Title: "System Maintenance Announcement"
-
-        Description:
+        title: "System Maintenance Announcement"
+        description:
         "Dear users,\n
         \n
         Please note that a planned system update is scheduled for Monday, April 18, 2022, beginning from 10 am to 11:30 am (GMT-7).\n
